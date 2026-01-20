@@ -1,83 +1,85 @@
-# Hi, I'm Tsewang Namgail
+# Hey there, I'm Tsewang Namgail 👋
 
-Computer Science Student | AI and Machine Learning Enthusiast | Backend and Chatbot Developer
-
-I am a computer science student focused on building intelligent, scalable, and well-structured software systems.  
-My primary interests include artificial intelligence, machine learning, large language models, and backend development.  
-I enjoy learning by building real-world projects and continuously improving my problem-solving skills.
+**Computer Science Student • AI & ML Enthusiast • Backend Developer**
 
 ---
 
 ## About Me
 
-- Interested in Artificial Intelligence, Machine Learning, and Large Language Models
-- Building full-stack AI chatbots using modern Python frameworks
-- Focused on clean architecture and scalable backend systems
-- Currently learning DevOps, AWS, and cloud technologies
-- Actively practicing data structures, algorithms, and LeetCode problems
+I'm a Computer Science student passionate about building intelligent, scalable software systems. My work sits at the intersection of **Artificial Intelligence**, **Machine Learning**, and **Backend Development**. I believe in learning by doing—turning ideas into real-world projects with clean, maintainable code.
+
+- 🤖 Building full-stack AI chatbots with modern Python frameworks
+- 🧠 Exploring Large Language Models and their applications
+- ☁️ Expanding into DevOps, AWS, and cloud technologies
+- 📚 Sharpening problem-solving skills through DSA and LeetCode
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-- Python
-- SQL
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-### Frameworks and Libraries
-- FastAPI
-- Streamlit
-- Pydantic
-- SQLAlchemy
+**Frameworks & Libraries**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat&logo=sqlalchemy&logoColor=white)
 
-### Databases
-- SQLite
+**Databases**  
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-### Tools and Platforms
-- Git and GitHub
-- uv for Python environment and dependency management
-- Linux and macOS
-- Visual Studio Code
-
----
-
-## Currently Learning
-
-- Large Language Models and AI systems
-- Machine Learning fundamentals
-- AWS and cloud computing
-- DevOps concepts and deployment workflows
-- Advanced backend architecture and system design
+**Tools & Platforms**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## Featured Projects
+## 🎯 Currently Focused On
 
-- AI Chatbot Platform  
-  A full-stack chatbot built using Streamlit, FastAPI, SQLite, and LLMs
-
-- Machine Learning Practice  
-  Hands-on experiments and implementations of ML concepts
-
-- DSA and LeetCode Solutions  
-  Structured problem-solving with clean and readable code
+- Deepening my understanding of **LLMs and AI systems**
+- Building robust **backend architectures** with clean design patterns
+- Learning **AWS** and cloud deployment workflows
+- Practicing **system design** and scalable infrastructure concepts
 
 ---
 
-## GitHub Stats
+## 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tsewangnamgail&show_icons=true&theme=default)
+| Project | Description | Tech |
+|---------|-------------|------|
+| **AI Chatbot Platform** | Full-stack conversational AI application with a modern UI and robust backend | Streamlit, FastAPI, SQLite, LLMs |
+| **ML Experiments** | Hands-on implementations of core machine learning algorithms | Python, Scikit-learn, NumPy |
+| **DSA Solutions** | Structured solutions to algorithmic problems with clean code practices | Python |
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tsewangnamgail&layout=compact&theme=default)
-
----
-
-## Contact
-
-- GitHub: https://github.com/tsewangnamgail
-- Email: your-email@example.com
-- LinkedIn: your-linkedin-url
+> *More projects available in my [repositories](https://github.com/tsewangnamgail?tab=repositories)*
 
 ---
 
-I believe in consistent learning, building practical projects, and writing clean, maintainable code.
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tsewangnamgail&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsewangnamgail&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tsewangnamgail&theme=github-dark&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-tsewangnamgail-181717?style=flat&logo=github)](https://github.com/tsewangnamgail)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+
+---
+
+<p align="center">
+  <em>"Write code that humans can understand, build systems that scale."</em>
+</p>
