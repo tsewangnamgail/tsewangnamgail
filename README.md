@@ -2,7 +2,6 @@
 
 **Computer Science Student • AI & ML Engineer • Backend & Chatbot Developer**
 
----
 
 ## About Me
 
