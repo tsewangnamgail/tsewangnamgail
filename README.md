@@ -30,6 +30,8 @@ I'm a Computer Science student passionate about building intelligent, scalable s
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-007ACC?style=flat)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-8A2BE2?style=flat)
+![LLM](https://img.shields.io/badge/LLM-Large%20Language%20Models-FF6F00?style=flat)
+![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-009688?style=flat)
 
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
